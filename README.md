@@ -14,15 +14,17 @@ etc..
 
 #### Back-end
 
-- Your API includes at least 2 models, one of which may be a user
+- Your API includes at least 2 models.
 - Your models include at least one association
 - Your API has RESTful routes as appropriate
+- Use oAuth & Firebase & MongoDB & NodeJS
 
 ---
 
 #### Front-end
 
 - Your app provides a reasonable user experience
+- Your frontend should be written in React & Redux & Bootstrap/Tailwind/MUI, SCSS.
 - Your view(s) includes at least two AJAX(Fetch/Axios) request that allows a user to somehow interact with the API
 - Your code, as rendered in the browser, passes a [CSS validator](http://jigsaw.w3.org/css-validator/) and an [HTML validator](https://validator.w3.org/)
 
