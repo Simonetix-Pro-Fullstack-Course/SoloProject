@@ -49,4 +49,8 @@ In addition, create Unit Tests in order to ensure better debugging and code.
 ---
 
 #### Deployment and functionality
-- Your application is deployed to Heroku (hint: use `heroku rename` to give your app a nice URL)
+- Your application is deployed to Heroku 
+
+#### Deadline
+25.06.22
+
