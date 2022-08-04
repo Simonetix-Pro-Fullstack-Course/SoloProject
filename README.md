@@ -24,9 +24,8 @@ etc..
 #### Front-end
 
 - Your app provides a reasonable user experience
-- Your frontend should be written in React & Redux & Bootstrap/Tailwind/MUI, SCSS.
+- Your frontend should be written in React & Redux & Bootstrap/Tailwind/MUI,SCSS.
 - Your view(s) includes at least two AJAX(Fetch/Axios) request that allows a user to somehow interact with the API
-- Your code, as rendered in the browser, passes a [CSS validator](http://jigsaw.w3.org/css-validator/) and an [HTML validator](https://validator.w3.org/)
 
 ---
 
@@ -54,5 +53,5 @@ In addition, create Unit Tests in order to ensure better debugging and code.
 - Your application is deployed to Heroku 
 
 #### Deadline
-25.06.22
+
 
